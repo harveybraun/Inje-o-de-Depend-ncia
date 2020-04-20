@@ -4,6 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
+/**
+ * Descreve a Classe InjecaodedependenciaApplication
+ *
+ * @author Harvey Braun
+ * @version 1.0
+ * @since 19/04/2020 - 23:00
+ */
 @SpringBootApplication
 public class InjecaodedependenciaApplication {
 
@@ -24,7 +31,6 @@ public class InjecaodedependenciaApplication {
 		pet = new Pet(new Cat());
 		pet.execute();
 		*/
-
 
 	}
 
