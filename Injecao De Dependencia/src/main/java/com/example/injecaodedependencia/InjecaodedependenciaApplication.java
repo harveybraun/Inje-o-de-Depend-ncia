@@ -22,7 +22,6 @@ public class InjecaodedependenciaApplication {
 		/*
 		// Primeira Maneira
 		Pet pet = new Pet();
-		Pet pet = new Pet();
 		pet.execute();
 		*/
 
